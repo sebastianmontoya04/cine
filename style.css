@@ -1,0 +1,51 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header{
+    background-color: rgba(128, 128, 128, 0.342);
+    padding: 2%;
+}
+#titulo1{
+    text-align: center;
+    padding: 1%;
+}
+h2{
+    text-align: center;
+    margin-top: 3%;
+}
+h3{
+    text-align: center;
+}
+.container{
+   text-align: center;
+}
+#titulo2{
+    padding: 2%;
+}
+button{
+    margin-bottom: 5%;
+    background-color: aliceblue;
+    padding: 2%;
+    border-style: double;
+    margin: 2%;
+    cursor: pointer;
+}
+button:hover{
+    background-color: rgba(128, 128, 128, 0.342);
+}
+input{
+    margin-top: 2%;
+    border: 2px solid grey;
+}
+#resultado{
+    padding: 4%;
+    width: 20%;
+    margin: 0 auto;
+    border: 2px solid grey;
+}
+#btn{
+    padding: 5px;
+    background-color:  white;
+}
